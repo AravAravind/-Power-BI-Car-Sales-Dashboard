@@ -15,4 +15,10 @@ This Power BI dashboard provides key insights into car sales performance, dealer
 - **File:** `Car Sales.xlsx`  
 - **Key Columns:** Dealer Name, Price, Transmission, Engine, Color, Date.  
 
-    ![DashBoard](Images/1.png)  
+    ![DashBoard](Images/1.png)
+
+## Connect with Me
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
+  
